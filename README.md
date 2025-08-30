@@ -1,2 +1,3 @@
-# Privy Stellar Wallets
-Experiments with Privy and Stellar
+# Privy x Stellar
+
+This code does not work, do not use
